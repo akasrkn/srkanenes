@@ -1,0 +1,33 @@
+html{
+    background-color: #000513;
+}
+
+*{
+    color: #a2c6e9;
+}
+
+#name{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.pictureserkan{
+    border-radius: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+
+  .title{
+    background-color: #0c2b3b;
+  }
+
+
+
